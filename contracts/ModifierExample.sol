@@ -9,7 +9,7 @@ contract ModifierExample {
 
     constructor() public {
         owner = msg.sender;
-        number = 3;
+        number = 4;
         worked = false;
     }
 
