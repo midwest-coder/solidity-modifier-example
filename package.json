@@ -1,0 +1,18 @@
+{
+  "name": "solidity-modifier-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "truffle test"
+  },
+  "author": "Kevin Stamps",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "4.2.0",
+    "chai-as-promised": "^7.1.1"
+  }
+}
